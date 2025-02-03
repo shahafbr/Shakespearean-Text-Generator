@@ -30,7 +30,7 @@ or run the Download.py
 ## File Structure
 ```plaintext
 Shakespeare_Text_Generator/
-│── Shakespeare.md
+│── README.md
 │── Download.py            # Installation
 │── Test.py                # Testing script for validating Shakespeare.py functionality. 
 │── Ssurvey_results.json   # File to store user servey responses for evaluation. 
