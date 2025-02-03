@@ -25,7 +25,7 @@ This project implements an N-gram-based text generator that mimics the writing s
    python -m nltk.downloader gutenberg
    python -m nltk.downloader punkt
 ```
-or run the Download.py
+   or run the Download.py
 
 ## File Structure
 ```plaintext
